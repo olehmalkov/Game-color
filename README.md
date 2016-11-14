@@ -1,1 +1,1 @@
-# olehmalkov.github.io
+# color-game
